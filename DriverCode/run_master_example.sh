@@ -26,11 +26,11 @@ for V0 in 0.3855; do
 		# 6. g acceleration (dimensional)
 		# 7. drop radius (dimensional)
 		# 8. initial drop velocity (dimensional)
-		# 9. simulation end time (dimensionless)
+		# 9. simulation end time (dimensionless, tailored to contact and bounce duration)
 		# 10. max level
 
 		# Run executable
-		./DropImpact 998.0 1.21 0.998e-3 1.81e-5 0.0722 9.81 0.35e-3 $V0 20.0 $LEVEL
+		./DropImpact 998.0 1.21 0.998e-3 1.81e-5 0.0722 9.81 0.35e-3 $V0 6.0 $LEVEL
 		
 		cd ..
 	done
