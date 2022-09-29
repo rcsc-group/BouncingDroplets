@@ -1,7 +1,7 @@
 # Bouncing droplets
 Direct numerical simulation code infrastructure for drop impact onto liquid pools in the inertio-capillary regime, supporting collaborative work with the Harris Lab at Brown.  
 
-Complements the preprint available at https://arxiv.org/abs/2209.13276 mathematical modelling repository at https://github.com/harrislab-brown/BouncingDroplets.
+Complements the preprint available at https://arxiv.org/abs/2209.13276 and the mathematical modelling repository at https://github.com/harrislab-brown/BouncingDroplets.
 
 ## Installation
 * The code relies on [Basilisk](<http://basilisk.fr/>) to model the Navier-Stokes equations. See the [installation page](<http://basilisk.fr/src/INSTALL>) for instructions. 
