@@ -9,7 +9,7 @@ Direct numerical simulation code infrastructure for **drop impact onto liquid po
 ✅ Axisymmetric Navier-Stokes solver for drop-pool impact scenarios  
 ✅ Parameter sweep support: drop velocity, resolution level  
 ✅ Two-phase, non-coalescing VOF implementation for bouncing regime  
-✅ Standard (coalescing) VOF implementation also provided
+✅ Standard (coalescing) VOF implementation also provided  
 ✅ High-resolution output and animation capabilities  
 ✅ Full visualization and post-processing ready data  
 
